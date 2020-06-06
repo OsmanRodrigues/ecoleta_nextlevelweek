@@ -9,6 +9,8 @@ import { FiArrowLeft } from 'react-icons/fi';
 import './styles.css';
 import Logo from '../../assets/logo.svg';
 
+import Dropzone from '../../components/Dropzone';
+
 // array ou objeto no estado: manualmente informar  o tipo da variavel
 
 interface Item{
@@ -42,6 +44,8 @@ const CreatePoint=()=>{
 
     const [selectedPosition, setSelectedPosition] = useState<[number, number]>([0, 0]);
     const [inicialPosition, setInicialPosition] = useState<[number, number]>([0, 0]);
+
+    const [selectedFile, setSelectedFile] = useState<File>();
 
     const handleSelectUf=(e:ChangeEvent<HTMLSelectElement>)=>{
         setSelectedUf(e.target.value);
@@ -83,17 +87,20 @@ const CreatePoint=()=>{
         const [latitude, longitude] = selectedPosition;
         const items = selectedItems;
 
-        const data = {
-            name, 
-            email,
-            whatsapp,
-            uf,
-            city,
-            latitude,
-            longitude,
-            items
-        };
-
+        const data = new FormData()
+        data.append('name',name);
+        data.append('email', email);
+        data.append('whatsapp',whatsapp );
+        data.append('uf', uf);
+        data.append('city',city );
+        data.append('latitude', String(latitude));
+        data.append('longitude', String(longitude));
+        data.append('items', items.join(','));
+        
+        if(selectedFile){
+            data.append('image', selectedFile)
+        }; 
+        
         try{
             await api.post('points', data)
             window.alert('Ponto de coleta registrado com sucesso!')
@@ -154,6 +161,8 @@ const CreatePoint=()=>{
 
             <form onSubmit={handleSubmit}>
                 <h1>Cadastro do <br/> ponto de coleta</h1>
+
+                <Dropzone onFileUploaded = {setSelectedFile}/>
 
                 <fieldset>
                     <legend>
