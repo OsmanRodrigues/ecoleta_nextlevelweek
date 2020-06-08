@@ -19,7 +19,8 @@ Front-end: React JS e React Native
 <img src="https://github.com/OsmanRodrigues/Ecoleta_NextLevelWeek/blob/master/ecoleta%20telas/web/web_tela6.png?raw=true" width="720">
 
 ### Mobile
-<img src='https://github.com/OsmanRodrigues/Ecoleta_NextLevelWeek/blob/master/ecoleta%20telas/mobile/mobile_tela1.jpeg?raw=true' width='365' heigth='406' display='inline'>
-<img src='https://github.com/OsmanRodrigues/Ecoleta_NextLevelWeek/blob/master/ecoleta%20telas/mobile/mobile_tela2.jpeg?raw=true' width='365' heigth='406' display='inline'>
-
+<img src='https://github.com/OsmanRodrigues/Ecoleta_NextLevelWeek/blob/master/ecoleta%20telas/mobile/mobile_tela1.jpeg?raw=true' width='365' heigth='406' align-self='center'>
+<img src='https://github.com/OsmanRodrigues/Ecoleta_NextLevelWeek/blob/master/ecoleta%20telas/mobile/mobile_tela2.jpeg?raw=true' width='365' heigth='406'>
+<img src='https://github.com/OsmanRodrigues/Ecoleta_NextLevelWeek/blob/master/ecoleta%20telas/mobile/mobile_tela3.jpeg?raw=true' width='365' heigth='406'>
+<img src='https://github.com/OsmanRodrigues/Ecoleta_NextLevelWeek/blob/master/ecoleta%20telas/mobile/mobile_tela4.jpeg?raw=true' width='365' heigth='406'>
 
