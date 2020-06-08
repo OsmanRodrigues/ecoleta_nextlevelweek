@@ -8,4 +8,7 @@ Ecoleta é uma aplicação multiplataforma que ajuda pessoas a cadastrarem e enc
 Backend: Node JS, React, TypeScript, SQLite
 Front-end: React JS e React Native
 
+## Telas
+### Web
+![1](https://raw.githubusercontent.com/OsmanRodrigues/Ecoleta_NextLevelWeek/master/ecoleta%20telas/web/web_tela1.png?token=ANEAO6MGZYDCWWE5AOEIJUS632HN6)
 
