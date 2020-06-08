@@ -12,3 +12,5 @@ Front-end: React JS e React Native
 ### Web
 ![1](https://raw.githubusercontent.com/OsmanRodrigues/Ecoleta_NextLevelWeek/master/ecoleta%20telas/web/web_tela1.png?token=ANEAO6MGZYDCWWE5AOEIJUS632HN6)
 
+![1](https://github.com/OsmanRodrigues/Ecoleta_NextLevelWeek/blob/master/ecoleta%20telas/web/web_tela2.png?raw=true)
+
