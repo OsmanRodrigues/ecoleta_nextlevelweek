@@ -20,5 +20,6 @@ Front-end: React JS e React Native
 
 ### Mobile
 <img src='https://github.com/OsmanRodrigues/Ecoleta_NextLevelWeek/blob/master/ecoleta%20telas/mobile/mobile_tela1.jpeg?raw=true' width='365' heigth='406'>
+<img src='https://github.com/OsmanRodrigues/Ecoleta_NextLevelWeek/blob/master/ecoleta%20telas/mobile/mobile_tela2.jpeg?raw=true' width='365' heigth='406'>
 
 
