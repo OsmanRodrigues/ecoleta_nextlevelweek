@@ -5,7 +5,7 @@ Ecoleta é uma aplicação multiplataforma que ajuda pessoas a cadastrarem e enc
 
 ## Tecnologias utilizadas 
 
-Back-end: Node JS, React, SQLite
+Back-end: Node JS, Typescript, SQLite
 
 Front-end: React e React Native
 
