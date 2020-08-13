@@ -11,8 +11,6 @@ import Logo from '../../assets/logo.svg';
 
 import Dropzone from '../../components/Dropzone';
 
-// array ou objeto no estado: manualmente informar  o tipo da variavel
-
 interface Item{
     id: number;
     title: string;
