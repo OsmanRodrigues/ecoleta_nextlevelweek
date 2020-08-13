@@ -5,7 +5,7 @@ Ecoleta é uma aplicação multiplataforma que ajuda pessoas a cadastrarem e enc
 
 ## Tecnologias utilizadas 
 
-Back-end: Node JS, React, SQLite
+Back-end: Node JS, Typescript, SQLite
 
 Front-end: React e React Native
 
@@ -18,8 +18,12 @@ Front-end: React e React Native
 <img src="https://github.com/OsmanRodrigues/Ecoleta_NextLevelWeek/blob/master/ecoleta%20telas/web/web_tela6.png?raw=true" width="1020">
 
 ### Mobile
-<img src='https://github.com/OsmanRodrigues/Ecoleta_NextLevelWeek/blob/master/ecoleta%20telas/mobile/mobile_tela1.jpeg?raw=true' width='365' heigth='406' align-self='center'>
-<img src='https://github.com/OsmanRodrigues/Ecoleta_NextLevelWeek/blob/master/ecoleta%20telas/mobile/mobile_tela2.jpeg?raw=true' width='365' heigth='406'>
-<img src='https://github.com/OsmanRodrigues/Ecoleta_NextLevelWeek/blob/master/ecoleta%20telas/mobile/mobile_tela3.jpeg?raw=true' width='365' heigth='406'>
-<img src='https://github.com/OsmanRodrigues/Ecoleta_NextLevelWeek/blob/master/ecoleta%20telas/mobile/mobile_tela4.jpeg?raw=true' width='365' heigth='406'>
+<div width='100vw' heigth='auto'>
+  <img src='https://github.com/OsmanRodrigues/Ecoleta_NextLevelWeek/blob/master/ecoleta%20telas/mobile/mobile_tela1.jpeg?raw=true' width='365' heigth='406' align-self='center'>
+  <img src='https://github.com/OsmanRodrigues/Ecoleta_NextLevelWeek/blob/master/ecoleta%20telas/mobile/mobile_tela2.jpeg?raw=true' width='365' heigth='406'>
+</div>
+<div width='100vw' heigth='auto'>
+  <img src='https://github.com/OsmanRodrigues/Ecoleta_NextLevelWeek/blob/master/ecoleta%20telas/mobile/mobile_tela3.jpeg?raw=true' width='365' heigth='406'>
+  <img src='https://github.com/OsmanRodrigues/Ecoleta_NextLevelWeek/blob/master/ecoleta%20telas/mobile/mobile_tela4.jpeg?raw=true' width='365' heigth='406'>
+</div>
 
