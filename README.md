@@ -6,17 +6,17 @@ Ecoleta é uma aplicação multiplataforma que ajuda pessoas a cadastrarem e enc
 <li>Typescript, express, knex, HTML e CSS</li>     
 
 ## Tecnologias auxiliares
-## Database
+### Database
 <li>Biblioteca principal: knex;</li>
 <li>Cliente: sqlite3;</li>
 <li>Armazenamento: multer.</li>
 
-## Backend
+### Backend
 <li>Biblioteca principal: express;</li>
 <li>API: express e knex;</li>
 <li>Middlewares: celebrate e cors.</li>
 
-## Frontend
+### Frontend
 <li>Biblioteca principal: React.js;</li>
 <li>Estilização: Styled Components, Leaflet(geolocalização) e React Dropzone(drag-and-push);</li> 
 <li>Requisições HTTP: Axios;</li>
