@@ -23,12 +23,14 @@ Ecoleta é uma aplicação multiplataforma que ajuda pessoas a cadastrarem e enc
 <li>Apk Android: React Native, Babel e Expo.</li>
 
 ## Telas
-### Web
+### Desktop
+<kbd>
 <img src="https://github.com/OsmanRodrigues/Ecoleta_NextLevelWeek/blob/master/views/web/web_tela1.png?raw=true" width="1020">
 <img src="https://github.com/OsmanRodrigues/Ecoleta_NextLevelWeek/blob/master/views/web/web_tela2.png?raw=true" width="1020">
 <img src="https://github.com/OsmanRodrigues/Ecoleta_NextLevelWeek/blob/master/views/web/web_tela3.png?raw=true" width="1020">
 <img src="https://github.com/OsmanRodrigues/Ecoleta_NextLevelWeek/blob/master/views/web/web_tela5.png?raw=true" width="1020">
 <img src="https://github.com/OsmanRodrigues/Ecoleta_NextLevelWeek/blob/master/views/web/web_tela6.png?raw=true" width="1020">
+</kbd>
 
 ### Mobile
 <kbd>
