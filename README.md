@@ -31,12 +31,7 @@ Ecoleta é uma aplicação multiplataforma que ajuda pessoas a cadastrarem e enc
 <img src="https://github.com/OsmanRodrigues/Ecoleta_NextLevelWeek/blob/master/views/web/web_tela6.png?raw=true" width="1020">
 
 ### Mobile
-<div width='100vw' heigth='auto'>
-  <img src='https://github.com/OsmanRodrigues/Ecoleta_NextLevelWeek/blob/master/views/mobile/mobile_tela1.jpeg?raw=true' width='365' heigth='406' align-self='center'>
-  <img src='https://github.com/OsmanRodrigues/Ecoleta_NextLevelWeek/blob/master/views/mobile/mobile_tela2.jpeg?raw=true' width='365' heigth='406'>
-</div>
-<div width='100vw' heigth='auto'>
-  <img src='https://github.com/OsmanRodrigues/Ecoleta_NextLevelWeek/blob/master/views/mobile/mobile_tela3.jpeg?raw=true' width='365' heigth='406'>
-  <img src='https://github.com/OsmanRodrigues/Ecoleta_NextLevelWeek/blob/master/views/mobile/mobile_tela4.jpeg?raw=true' width='365' heigth='406'>
-</div>
+<kbd>
+<img src='https://user-images.githubusercontent.com/55052153/90836363-8f8e8a80-e325-11ea-97ed-ba3042bfaa91.png' width='100%' heigth='406' align-self='center'>  
+</kbd>
 
