@@ -2,11 +2,25 @@
 ## Descrição
 Ecoleta é uma aplicação multiplataforma que ajuda pessoas a cadastrarem e encontrarem pontos de coleta de recicláveis, desenvolvida em homenagem a Semana do Meio-Ambiente, durante o evento NextLevelWeek, ministrado pelo Diego Fernandes, da Rocketseat. 
 
-## Tecnologias utilizadas 
+## Tecnologias principais
+<li>Typescript, express, knex, HTML e CSS</li>     
 
-Back-end: Node JS, Typescript, SQLite
+## Tecnologias auxiliares
+## Database
+<li>Biblioteca principal: knex;</li>
+<li>Cliente: sqlite3;</li>
+<li>Armazenamento: multer.</li>
 
-Front-end: React e React Native
+## Backend
+<li>Biblioteca principal: express;</li>
+<li>API: express e knex;</li>
+<li>Middlewares: celebrate e cors.</li>
+
+## Frontend
+<li>Biblioteca principal: React.js;</li>
+<li>Estilização: Styled Components, Leaflet(geolocalização) e React Dropzone(drag-and-push);</li> 
+<li>Requisições HTTP: Axios;</li>
+<li>Apk Android: React Native, Babel e Expo.</li>
 
 ## Telas
 ### Web
